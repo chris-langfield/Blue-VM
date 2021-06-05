@@ -1,4 +1,11 @@
 # Blue-VM
-32 bit VM in C with custom assembly language.
+(Experiment) 32 bit VM in C with custom assembly language and REPL (currently only accepting hex instructions).
 
-Intended to become a language VM.
+For educational and curiosity purposes, this program is being built with the loose goal of being able to interpret a custom programming language.
+
+Based heavily on two tutorial sources:
+
+[https://blog.subnetzero.io/post/building-language-vm-part-00/](https://blog.subnetzero.io/post/building-language-vm-part-00/) (Rust)
+[https://justinmeiners.github.io/lc3-vm/](https://justinmeiners.github.io/lc3-vm/) (C)
+
+
