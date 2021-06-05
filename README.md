@@ -1,5 +1,5 @@
 # Blue-VM
-(Experiment) 32 bit VM in C with custom assembly language and REPL (currently only accepting hex instructions).
+(Experiment) 32 bit register VM in C with custom assembly language and REPL (currently only accepting hex instructions).
 
 For educational and curiosity purposes, this program is being built with the loose goal of being able to interpret a custom programming language.
 
