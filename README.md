@@ -3,6 +3,8 @@
 
 For educational and curiosity purposes, this program is being built with the loose goal of being able to interpret a custom programming language.
 
+A lot of bit-shifting fun! 🤓
+
 Based heavily on two tutorial sources:
 
 [https://blog.subnetzero.io/post/building-language-vm-part-00/](https://blog.subnetzero.io/post/building-language-vm-part-00/) (Rust)
